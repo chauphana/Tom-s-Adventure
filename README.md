@@ -7,6 +7,6 @@ and defeat enemies!
 * Establish game mechanics (such as ladders, deathzones, tweaking physics)
 * Create a structure for the game so that it can be easily added-on and modified
   (easy way to create new levels, and add new enemies)
-* Fix everything that is broken
+* Fix everything that becomes broken from the last 2 points
 * Draw and create textures
 * Create levels
